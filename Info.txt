@@ -1,0 +1,8 @@
+
+FOR ADMIN'S LOGIN
+
+  username = bernard23
+  password = password
+
+For User's Login, Go to Admin Panel and Add or View Students record and 
+Find Student ID. Copy and Paste it in User's Login to proceed!
